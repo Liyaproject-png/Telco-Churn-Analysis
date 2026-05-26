@@ -12,7 +12,7 @@ Acquiring new customers in telecom is 5x more expensive than retaining existing 
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.12
-- **ML Model:** XGBoost Classifier, Logistic Regression, Random Forest
+- **ML Model:** XGBoost Classifier
 - **Data Preprocessing:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE)
 - **Dashboard:** Streamlit
 - **Visualization:** Matplotlib, Seaborn
